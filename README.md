@@ -1,0 +1,3 @@
+# webViewDemo
+网易新闻中新闻详情页UIWebView的实现
+在UIWebview中，自己控制图片的下载缓存。而不使用webview自带的下载缓存。
